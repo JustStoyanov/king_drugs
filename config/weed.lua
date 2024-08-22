@@ -5,6 +5,12 @@
 ---@field public growthTime number The time needed for the specific sort to grow by 1% (in seconds)
 
 return {
+    plantMaterials = {
+        '-1286696947',
+        '1333033863',
+        '-461750719'
+    },
+
     sorts = {
         brickWeed = {
             quality = 2,

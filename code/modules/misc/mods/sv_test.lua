@@ -1,1 +1,0 @@
-lib.print.info('misc/mods/sv_test loaded!');

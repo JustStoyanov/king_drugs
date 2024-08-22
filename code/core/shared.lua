@@ -1,6 +1,6 @@
 local modules <const>, resource <const> = {
-    'main',
-    'misc'
+    'devtools',
+    'weed'
 }, cache.resource;
 
 local globalVarName <const>, modsPath <const> = select(2, string.strsplit('_', resource)), ('@%s/code/modules'):format(resource);

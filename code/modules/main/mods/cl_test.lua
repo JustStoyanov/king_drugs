@@ -1,1 +1,0 @@
-lib.print.info('main/mods/cl_test loaded!');
