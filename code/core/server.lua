@@ -1,0 +1,1 @@
+lib.print.info('core/server.lua loaded!')
